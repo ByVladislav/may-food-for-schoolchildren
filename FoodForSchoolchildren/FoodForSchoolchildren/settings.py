@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-l0#yc66j4f6f@hy9=z&z=*xxcq@z0dd^ql^4_&&v-7o6^k#@2+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['byvladislav.github.io/may-food-for-schoolchildren/']
 
 
 # Application definition
